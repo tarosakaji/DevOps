@@ -1,0 +1,5 @@
+.DS_Store
+packer_cache
+packer-templates/virtualbox/
+packer-templates/aws
+output
